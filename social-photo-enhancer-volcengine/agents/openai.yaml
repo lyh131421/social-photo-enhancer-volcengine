@@ -1,0 +1,7 @@
+interface:
+  display_name: "Social Photo Enhancer Volcengine"
+  short_description: "Enhance one uploaded image (local path or URL) through Volcengine Jimeng"
+  default_prompt: "Use $social-photo-enhancer-volcengine to accept one image (local file path or URL), upload it to MinIO when needed, then turn it into a polished, preservation-first social-media image through Volcengine Jimeng."
+
+policy:
+  allow_implicit_invocation: true
